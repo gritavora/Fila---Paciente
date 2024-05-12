@@ -1,0 +1,14 @@
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/bin/Debug/net8.0/Fila - Prioritária
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/bin/Debug/net8.0/Fila - Prioritária.deps.json
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/bin/Debug/net8.0/Fila - Prioritária.runtimeconfig.json
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/bin/Debug/net8.0/Fila - Prioritária.dll
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/bin/Debug/net8.0/Fila - Prioritária.pdb
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.GeneratedMSBuildEditorConfig.editorconfig
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.AssemblyInfoInputs.cache
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.AssemblyInfo.cs
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.csproj.CoreCompileInputs.cache
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.dll
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/refint/Fila - Prioritária.dll
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.pdb
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/Fila - Prioritária.genruntimeconfig.cache
+/home/TAVORA/Área de trabalho/Net/Fila - Prioritária/obj/Debug/net8.0/ref/Fila - Prioritária.dll
